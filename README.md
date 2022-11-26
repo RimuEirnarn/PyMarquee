@@ -1,4 +1,5 @@
 # PyMarquee
+
 PyMarquee is a simple program to display a text, moving, etc. (like the marquee on HTML)
 
 ## Installation & Usage
